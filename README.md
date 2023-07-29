@@ -4,6 +4,10 @@ My name is Chang Min Bark and I am currently a computer science and engineering/
 
 Check out my [portfolio website](https://changminbark.github.io/)!
 
+[![css3-original](https://github.com/changminbark/changminbark/assets/88669927/6a738749-7c44-4bb4-bdbf-ecf3a19b6ed7)][1]
+
+[1]: https://developer.mozilla.org/en-US/docs/Web/CSS
+
 <!--
 **changminbark/changminbark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
