@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Chang Min Bark and I am currently a computer science and engineering/business management student at Bucknell University. I am also planning to minor in mathematics. 
+
+Check out my [portfolio website](https://changminbark.github.io/)!
+
 <!--
 **changminbark/changminbark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
