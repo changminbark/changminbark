@@ -13,6 +13,8 @@ Check out my [portfolio website](https://changminbark.github.io/)!
 ### Socials
 [<img align="left" alt="LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][9]
 
+
+
 [1]: https://www.python.org/
 [2]: https://www.java.com/en/
 [3]: https://www.javascript.com/
