@@ -4,8 +4,10 @@ My name is Chang Min Bark and I am currently a computer science and engineering/
 
 Check out my [portfolio website](https://changminbark.github.io/)!
 
+[<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][1]
 
 
+[1]: https://www.java.com/en/
 <!--
 **changminbark/changminbark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
