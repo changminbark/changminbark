@@ -27,6 +27,8 @@ Check out my [portfolio website](https://changminbark.github.io/)!
 <a href="mailto: cb073@bucknell.edu" target="_blank" rel="noreferrer"><img src="./img/Gmail_icon_(2020).svg" width="40" height="40" /></a> &nbsp;
 </p>
 
+
+### What I'm listening to at the moment
 [![Spotify](https://novatorem-gules-xi.vercel.app/api/spotify)](https://open.spotify.com/user/21espswhitlpcvzqvbtext43i)
 
 
