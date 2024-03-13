@@ -15,6 +15,8 @@ Check out my [portfolio website](https://changminbark.github.io/)!
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="./img/express-original.svg" width="36" height="36" alt="Express" /></a> &nbsp;
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="./img/nodejs-original.svg" width="36" height="36" alt="NodeJS" /></a> &nbsp;
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="./img/materialui-original.svg" width="36" height="36" alt="MUI" /></a> &nbsp;
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="./img/kotlin-original.svg" width="36" height="36" alt="Kotlin" /></a> &nbsp;
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="./img/pytorch-original.svg" width="36" height="36" alt="PyTorch" /></a> &nbsp;
 </p>
 
 
