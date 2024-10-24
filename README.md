@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-My name is **Chang Min Bark** and I am currently a computer science and engineering/business management student at Bucknell University. I am also planning to minor in mathematics. 
+My name is **Chang Min Bark** and I am currently a computer science and engineering/business management student at Bucknell University. I am also planning to minor in mathematics.
 
 Check out my [portfolio website](https://changminbark.github.io/)!
 
 ### Skills
+
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="./img/python-original.svg" width="36" height="36" alt="Python" /></a> &nbsp;
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="./img/java-original.svg" width="36" height="36" alt="Java" /></a>
@@ -17,10 +18,11 @@ Check out my [portfolio website](https://changminbark.github.io/)!
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="./img/materialui-original.svg" width="36" height="36" alt="MUI" /></a> &nbsp;
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="./img/kotlin-original.svg" width="36" height="36" alt="Kotlin" /></a> &nbsp;
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="./img/pytorch-original.svg" width="36" height="36" alt="PyTorch" /></a> &nbsp;
+<a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="./img/golang.svg" width="36" height="36" alt="Golang" /></a> &nbsp;
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"><img src="./img/c-language.svg" width="36" height="36" alt="C" /></a> &nbsp;
+<a href="https://riscv.org/" target="_blank" rel="noreferrer"><img src="./img/risc-v.svg" width="36" height="36" alt="Golang" /></a> &nbsp;
 </p>
-
-
-
+</p>
 
 ### Socials
 
@@ -29,10 +31,13 @@ Check out my [portfolio website](https://changminbark.github.io/)!
 <a href="mailto: cb073@bucknell.edu" target="_blank" rel="noreferrer"><img src="./img/Gmail_icon_(2020).svg" width="40" height="40" /></a> &nbsp;
 </p>
 
+### My GitHub Stats
+
+[![Chang Min's GitHub Stats](github-readme-stats-nine-opal-44.vercel.app)]
 
 ### What I'm listening to at the moment
-[![Spotify](https://novatorem-gules-xi.vercel.app/api/spotify)](https://open.spotify.com/user/21espswhitlpcvzqvbtext43i)
 
+[![Spotify](https://novatorem-gules-xi.vercel.app/api/spotify)](https://open.spotify.com/user/21espswhitlpcvzqvbtext43i)
 
 <!--
 **changminbark/changminbark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -48,4 +53,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
