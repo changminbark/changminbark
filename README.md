@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is **Chang Min Bark** and I am currently a computer science and engineering/business management student at Bucknell University. I am also planning to minor in mathematics.
+My name is **Chang Min Bark** and I am currently a computer science and engineering/business management student at Bucknell University. I am currently interning as a production engineer at Meta, which is a cross between SWE and SRE.
 
 Below are my personal projects. If you have any questions regarding my work for open source projects and internships, please reach out to me (I will show it to you through a meeting).
 
