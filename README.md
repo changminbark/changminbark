@@ -14,7 +14,7 @@ Check out my [portfolio website](https://changminbark.github.io/)!
 
 ### Project/Startup Websites
 
-Checkout my agentic teaching assistant app with an RAG pipeline [Chiron](https://www.chiron-ta.com/)
+Checkout my agentic teaching assistant app with an RAG pipeline [Chiron](https://www.chiron-ta.com/)!
 
 ### Skills
 
