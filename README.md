@@ -10,7 +10,7 @@ I also have private repositories that I can show if you contact me! They include
 
 ### Portfolio Website
 
-Check out my [portfolio website](https://changminbark.github.io/)!
+Check out my [portfolio website](https://changminbark.github.io/) (might not be up to date)!
 
 ### Project/Startup Websites
 
