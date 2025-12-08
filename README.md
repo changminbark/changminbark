@@ -1,7 +1,8 @@
 # Hi there 👋
 
 My name is **Chang Min Bark**. I am passionate about solving problems, which is the fundamental driver for my entrepreneurial passion.
-- I am currently an incoming production engineer at Meta (internship -> full-time), which is an infra SWE that has aspects of SRE responsibilities.
+- I am currently an incoming production engineer at Meta, which is an infra SWE that has aspects of SRE responsibilities.
+- I interned at Meta as a production engineer, where I automated management/monitoring of HA MySQL ClusterSets for over 130 enterprise clients.
 - I was a computer science and engineering student at Bucknell University (class of 2026).
 - I also interned as a Backend Engineer at Hangry (Indonesian Startup), where I developed a notification microservice (used by 10,000+ of users daily) and wrote my own message queue using Redis.
 - I also participated in the Google Summer of Code program: [project](https://summerofcode.withgoogle.com/archive/2024/projects/9916Xzin).
