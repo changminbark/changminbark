@@ -21,6 +21,8 @@ Check out my [portfolio website](https://changminbark.github.io/)! (might not be
 
 Checkout my agentic teaching assistant app with an RAG pipeline [Chiron](https://www.chiron-ta.com/)!
 
+I am also experimenting on AI/ML technologies with my friends at [IntelligentSandbox](https://intelligentsandbox.github.io/).
+
 ### Skills
 
 <p align="left">
