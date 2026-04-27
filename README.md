@@ -6,6 +6,7 @@ My name is **Chang Min Bark**. I am passionate about solving problems, which is 
 - I interned at Hangry Indonesia (startup) as a Backend Engineer, where I developed a notification microservice in Go (used by 10,000+ of users daily) and wrote my own message queue using Redis Streams.
 - I have a BSc (Computer Science and Engineering) from Bucknell University.
 - I participated in the Google Summer of Code program: [project](https://summerofcode.withgoogle.com/archive/2024/projects/9916Xzin).
+- I am an active contributor to kubernetes/inference-perf, sglang/sglang, and envoy/ai-gateway.
 
 Below are my personal/open-source projects. If you have any questions, please reach out to me.
 
@@ -15,7 +16,7 @@ I also have private repositories that I can show if you contact me! They include
 
 ### Portfolio Website
 
-Check out my [portfolio website](https://changminbark.github.io/)! (might not be up to date)
+Check out my [website](https://changminbark.github.io/)! 
 
 ### Project/Startup Websites
 
