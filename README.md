@@ -56,7 +56,3 @@ I am also experimenting on AI/ML technologies with my friends at [IntelligentSan
 <!-- ### My GitHub Stats
 
 ![Chang Min's GitHub Stats](https://github-readme-stats-nine-opal-44.vercel.app/api/top-langs/?username=changminbark&show_icons=true&theme=tokyonight) -->
-
-### What I'm listening to at the moment
-
-[![Spotify](https://novatorem-gules-xi.vercel.app/api/spotify)](https://open.spotify.com/user/21espswhitlpcvzqvbtext43i)
